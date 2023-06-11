@@ -1,7 +1,7 @@
 # Completed Hyperskill projects.
 
 This repository contains finished Hyperskill projects.
-Languages used:
+Languages used in this repository:
 - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 
 ## Python
