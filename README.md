@@ -18,3 +18,8 @@ Simple Chaaty Bot focuses on the basic syntax of Python, variable, conditions, l
 "This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status."
 
 Zookeeper uses syntax basics, variables, data storage types, and while loops.
+
+### My First Project
+"You are an owner of a new small corner shop. You are doing well and want to determine how much you earned in the first month. Create a simple tool that will calculate your net income!"
+
+My First Project uses integer artimetic, variables, and taking user data.
