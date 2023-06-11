@@ -1,5 +1,6 @@
 # Completed Hyperskill projects.
-https://www.bing.com/images/search?view=detailV2&ccid=hUyuFCRY&id=C92622D4817F3B9492AEFE9DEABE627DB61723BB&thid=OIP.hUyuFCRYEM7fdK6QsGGOVQHaDt&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F830%2F014%2Flarge_2x%2Ffuturistic-banner-background-with-wireframe-terrain-vector.jpg&exph=1960&expw=3920&q=hyperskill+banner&simid=608003035576430670&form=IRPRST&ck=A1F8686DB9A71865C4E9CBAD200D18E0&selectedindex=10&ajaxhist=0&ajaxserp=0&vt=0&sim=11
+[![Banner](https://example.com/banner-image.png)]([https://example.com/destination-url](https://www.bing.com/images/search?view=detailV2&ccid=hUyuFCRY&id=C92622D4817F3B9492AEFE9DEABE627DB61723BB&thid=OIP.hUyuFCRYEM7fdK6QsGGOVQHaDt&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F830%2F014%2Flarge_2x%2Ffuturistic-banner-background-with-wireframe-terrain-vector.jpg&exph=1960&expw=3920&q=hyperskill+banner&simid=608003035576430670&form=IRPRST&ck=A1F8686DB9A71865C4E9CBAD200D18E0&selectedindex=10&ajaxhist=0&ajaxserp=0&vt=0&sim=11))
+
 This repository contains finished Hyperskill projects.
 Languages used in this repository:
 - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
