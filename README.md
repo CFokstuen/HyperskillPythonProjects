@@ -23,3 +23,8 @@ Zookeeper uses syntax basics, variables, data storage types, and while loops.
 "You are an owner of a new small corner shop. You are doing well and want to determine how much you earned in the first month. Create a simple tool that will calculate your net income!"
 
 My First Project uses integer artimetic, variables, and taking user data.
+
+### Loan Calculator
+"Personal finances are an important part of life. Sometimes you need some extra money and decide to take a loan, or you want to buy a house using a mortgage. To make an informed decision, you need to be able to calculate different financial parameters. Let’s make a program that can help us with that!"
+
+Loan Calculator applies mathematics, and explores the use of third-party libraries and modules with simulated financial instruments. Additionally, parse arguements, and command-line interface is applied.
