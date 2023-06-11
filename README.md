@@ -30,8 +30,3 @@ My First Project uses integer artimetic, variables, and taking user data.
 "Personal finances are an important part of life. Sometimes you need some extra money and decide to take a loan, or you want to buy a house using a mortgage. To make an informed decision, you need to be able to calculate different financial parameters. Let’s make a program that can help us with that!"
 
 Loan Calculator applies mathematics, and explores the use of third-party libraries and modules with simulated financial instruments. Additionally, parse arguements, and command-line interface is applied.
-
-#
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CFokstuen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![](https://komarev.com/ghpvc/?username=CFokstuen&color=e6005c)
