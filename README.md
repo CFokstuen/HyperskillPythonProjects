@@ -30,3 +30,8 @@ My First Project uses integer artimetic, variables, and taking user data.
 "Personal finances are an important part of life. Sometimes you need some extra money and decide to take a loan, or you want to buy a house using a mortgage. To make an informed decision, you need to be able to calculate different financial parameters. Let’s make a program that can help us with that!"
 
 Loan Calculator applies mathematics, and explores the use of third-party libraries and modules with simulated financial instruments. Additionally, parse arguements, and command-line interface is applied.
+
+### Simple Tic-Tac-Toe
+"Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!"
+
+The Simple Tic-Tac-Toe project introduced and built on planning and developing a complex program from scratch, using functions, nested lists, list comprehension, handling errors, and processing user input.
